@@ -4,7 +4,7 @@
 
 ![image](public/movieBrowserGif.gif)
 
-## To Connect with the page: [click-me](https://danielnowrot.github.io/movies-browser)
+## To Connect with the page: [click-me](https://jacekwarzecha.github.io/movie-browser-group-project/)
 
 <br/>
 
@@ -19,9 +19,9 @@
 
 ## Authors:
 
-- ### Daniel Nowrot
-- ### Przemysław Gajczewski
 - ### Jacek Warzecha
+- ### Przemysław Gajczewski
+- ### Daniel Nowrot
 
 <br/>
 
