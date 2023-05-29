@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/movies-browser/static/js/main.e4436ca6.js",
-    "static/js/787.94542015.chunk.js": "/movies-browser/static/js/787.94542015.chunk.js",
-    "static/media/NoResults.svg": "/movies-browser/static/media/NoResults.d286a671797f1244d0ba26eeaa04cf6f.svg",
-    "static/media/star.svg": "/movies-browser/static/media/star.8663155c38d2739a01d98dddbf5d2ae1.svg",
-    "static/media/NoProfilePath.svg": "/movies-browser/static/media/NoProfilePath.cf6ada77b63e8e3ff5aa77fd490c7a41.svg",
-    "static/media/Danger.svg": "/movies-browser/static/media/Danger.a514e9c64a76d5cf149bdd7443857605.svg",
-    "index.html": "/movies-browser/index.html",
-    "static/media/no poster.svg": "/movies-browser/static/media/no poster.23675900fb08a716c42a1beab7fdea2a.svg",
-    "static/media/rightArrow.svg": "/movies-browser/static/media/rightArrow.c22fe6c9cd43f5eac2cf6e458c5b9f38.svg",
-    "static/media/camera.svg": "/movies-browser/static/media/camera.90c9d46becd162fd5e6998641d7c567e.svg",
-    "static/media/leftArrow.svg": "/movies-browser/static/media/leftArrow.99798cae29ce9ad8582f7ab91a3c109c.svg",
-    "static/media/magniyfying-glass.svg": "/movies-browser/static/media/magniyfying-glass.5aa061ea8ce958db2e2c813d81e21cf7.svg",
-    "main.e4436ca6.js.map": "/movies-browser/static/js/main.e4436ca6.js.map",
-    "787.94542015.chunk.js.map": "/movies-browser/static/js/787.94542015.chunk.js.map"
+    "main.js": "/movie-browser-group-project/static/js/main.2c95e8f1.js",
+    "static/js/787.94542015.chunk.js": "/movie-browser-group-project/static/js/787.94542015.chunk.js",
+    "static/media/NoResults.svg": "/movie-browser-group-project/static/media/NoResults.d286a671797f1244d0ba26eeaa04cf6f.svg",
+    "static/media/star.svg": "/movie-browser-group-project/static/media/star.8663155c38d2739a01d98dddbf5d2ae1.svg",
+    "static/media/NoProfilePath.svg": "/movie-browser-group-project/static/media/NoProfilePath.cf6ada77b63e8e3ff5aa77fd490c7a41.svg",
+    "static/media/Danger.svg": "/movie-browser-group-project/static/media/Danger.a514e9c64a76d5cf149bdd7443857605.svg",
+    "index.html": "/movie-browser-group-project/index.html",
+    "static/media/no poster.svg": "/movie-browser-group-project/static/media/no poster.23675900fb08a716c42a1beab7fdea2a.svg",
+    "static/media/rightArrow.svg": "/movie-browser-group-project/static/media/rightArrow.c22fe6c9cd43f5eac2cf6e458c5b9f38.svg",
+    "static/media/camera.svg": "/movie-browser-group-project/static/media/camera.90c9d46becd162fd5e6998641d7c567e.svg",
+    "static/media/leftArrow.svg": "/movie-browser-group-project/static/media/leftArrow.99798cae29ce9ad8582f7ab91a3c109c.svg",
+    "static/media/magniyfying-glass.svg": "/movie-browser-group-project/static/media/magniyfying-glass.5aa061ea8ce958db2e2c813d81e21cf7.svg",
+    "main.2c95e8f1.js.map": "/movie-browser-group-project/static/js/main.2c95e8f1.js.map",
+    "787.94542015.chunk.js.map": "/movie-browser-group-project/static/js/787.94542015.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e4436ca6.js"
+    "static/js/main.2c95e8f1.js"
   ]
 }
