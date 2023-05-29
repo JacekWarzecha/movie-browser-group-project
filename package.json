@@ -2,7 +2,7 @@
   "name": "movies-browser",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danielnowrot.github.io/movies-browser/",
+  "homepage": "https://jacekwarzecha.github.io/movie-browser-group-project/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
